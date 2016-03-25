@@ -1,0 +1,28 @@
+{
+  "name": "mywebstate",
+  "version": "1.0.0",
+  "description": "晓君的网站",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fxjinformation/mywebstate.git"
+  },
+  "keywords": [
+    "xiaojun"
+  ],
+  "author": "fxiaojun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fxjinformation/mywebstate/issues"
+  },
+  "homepage": "https://github.com/fxjinformation/mywebstate#readme",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "express": "^4.13.4",
+    "express-session": "^1.13.0",
+    "mysql": "^2.10.2"
+  }
+}
